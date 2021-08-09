@@ -91,7 +91,7 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
     - git checkout -t yhh/yhh1056
 5. 수정 후 commit하고 push
 ```
-- [참고 링크](https://tighten.co/)
+- [참고 링크](https://tighten.co/blog/adding-commits-to-a-pull-request/)
 
 
 
