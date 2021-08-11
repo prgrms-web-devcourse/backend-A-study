@@ -14,7 +14,7 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 |주차|제목|링크|회의록|
 |---|---|---|---|
 |1주차|동작 파라미터화 코드 전달하기|[유현호](https://www.notion.so/aeno/0ab365ce7f0248b49de7b0eb7882430a) [이주오](https://velog.io/@ljo_0920/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0))|[링크](./week-1/meeting-log-1.md)
-| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D))|[링크](./week-1/meeting-log-2)
+| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D))|[링크](./week-1/meeting-log-2.md)
 
 
 </br>
