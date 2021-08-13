@@ -13,8 +13,8 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 
 |주차|제목|링크|회의록|
 |---|---|---|---|
-|1주차|동작 파라미터화 코드 전달하기|[유현호](https://www.notion.so/aeno/0ab365ce7f0248b49de7b0eb7882430a) [이주오](https://velog.io/@ljo_0920/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0))|[링크](./week-1/meeting-log-1.md)
-| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D))|[링크](./week-1/meeting-log-2.md)
+|1주차|동작 파라미터화 코드 전달하기|[유현호](https://www.notion.so/aeno/0ab365ce7f0248b49de7b0eb7882430a) [이주오](https://velog.io/@ljo_0920/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0))|[링크](./java/week-1/meeting-log-1.md)
+| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연]([링크](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D))|[링크](./java/week-1/meeting-log-2.md)
 
 
 </br>
@@ -50,9 +50,9 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 </br>
 
 ### 회의록 작성법
-- 스터디가 끝난 후 회의록 작성 pr에 본인이 했던 질문 기입 후 push
-질문을 받은 사람은 해당 pr에 질문 기입
-- 느낀점이나 새롭게 느낀점 또한 자유롭게 적어도 된다.
+- 스터디가 끝난 후 회의록 작성 pr에 본인이 했던 질문 기입 후 commit push
+- 질문을 받은 사람은 해당 답변했던 내용을 작성 후 해당 pr에 commit push
+- 느낀점이나 새롭게 느낀점 또한 자유롭게 적어도 좋을 것 같습니다.
 
 
 </br>
