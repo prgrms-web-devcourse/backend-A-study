@@ -1,9 +1,9 @@
 ### 정리글
 |주차|제목|링크|
 |---|---|---|
-|2주차|스트림 소개|[링크](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%ED%99%9C%EC%9A%A9)|
-| |스트림 활용|[링크](https://velog.io/@ljo_0920/%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%86%8C%EA%B0%9C)|
-
+|2주차|스트림 소개|[링크](https://velog.io/@ljo_0920/%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%86%8C%EA%B0%9C)|
+| |스트림 활용|[링크](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%ED%99%9C%EC%9A%A9
+)|
 
 ### 궁금증 및 회고록
 아직 멀었지만 저번주 보다는 확실히 조금씩 람다와 스트림에 익숙해지는 것 같다. 특히 람다와 스트림을 통해 정말 코드가 간결해지는 것
