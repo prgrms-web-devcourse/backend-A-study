@@ -69,7 +69,7 @@ TCP는 등기 우편, UDP는 일반 우편으로 생각하면 이해가 쉽다.
 - Source Port : 출발지 포트 번호 
 - Destination Port : 목적지 포트 번호
 - Sequence Number : 보내는 순서 번호
-- Acknowledgment Number(ACK): 받은 순서 번호
+- Acknowledgment Number(ACK): 받고 싶은 순서 번호 (확인번호)
 - Data Offset : TCP 헤더 길이
 - Flags : 제어 비트 (세그먼트 종류 표시)
 - Window Size : 확인 메시지 없이 전송할 수 있는 세그먼트 최대 크기
