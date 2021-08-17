@@ -1,4 +1,5 @@
 # [__RESTful API란?__](https://velog.io/@ddkk94/RESTful-API%EB%9E%80)
+
 먼저 REST와 API의 개념을 알아보고 RESTful API의 의미를 확인해보겠습니다.
 # REST(Representational State Transfer)
 __웹 사이트의 컨텐츠(Text, 이미지, 동영상), DB의 내용__ 등을 전부 하나의 자원으로 파악하여 각 자원의 고유한 __URI(Uniform Resource Identifier)를 부여__하고, 해당 자원에 대한 __CRUD(Create, Read, Update, Delete) 작업__을 HTTP의 기본 명령어인 POST, GET, PUT, DELETE를 통해서 처리
