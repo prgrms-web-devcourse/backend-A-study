@@ -11,21 +11,30 @@
 Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부한다.
 
 
-|주차|제목|링크|회의록|
+|주차|제목|링크|회고록|
 |---|---|---|---|
-|1주차|동작 파라미터화 코드 전달하기|[유현호](https://www.notion.so/aeno/0ab365ce7f0248b49de7b0eb7882430a) [이주오](https://velog.io/@ljo_0920/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94) [허승연](https://velog.io/@heoseungyeon/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0)|[링크](./week-1/meeting-log-1.md)
-| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D)|[링크](./week-1/meeting-log-2.md)
-
+|1주차|동작 파라미터화 코드 전달하기|[유현호](https://www.notion.so/aeno/0ab365ce7f0248b49de7b0eb7882430a) [이주오](https://velog.io/@ljo_0920/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94) [허승연](https://velog.io/@heoseungyeon/%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0)|[링크](JAVA/week-1/meeting-log-1.md)
+| |람다 표현식|[유현호](https://www.notion.so/aeno/f8291bec1d564b35be976bac4cbd3efc) [이주오](https://velog.io/@ljo_0920/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D) [허승연](https://velog.io/@heoseungyeon/%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D)|[링크](JAVA/week-1/meeting-log-2.md)
+|2주차|스트림 소개|[유현호](https://www.notion.so/aeno/46ac570790014b949b99158bc031280c) [이주오](https://velog.io/@ljo_0920/%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%86%8C%EA%B0%9C) [허승연](https://velog.io/@heoseungyeon/%EC%8A%A4%ED%8A%B8%EB%A6%BCStreams-%EC%86%8C%EA%B0%9C-%ED%99%9C%EC%9A%A9)|[링크](https://github.com/prgrms-web-devcourse/backend-A-study/blob/main/week-2/review.md)|
+| |스트림 활용| [이주오](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%ED%99%9C%EC%9A%A9) ||
+|3주차|스트림으로 데이터 수집|[유현호](https://aeno.notion.site/9061704142cb44e48b267aa10c093e99) [이주오](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9D%B8-%EC%9E%90%EB%B0%94-%EC%95%A1%EC%85%98-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91) [허승연](https://velog.io/@heoseungyeon/%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)|[링크](https://github.com/prgrms-web-devcourse/backend-A-study/blob/main/week-3/review.md)
+| |병렬 데이터 처리와 성능|[유현호](https://aeno.notion.site/bf431140e0fc4535a6d3bd0d06997627) [이주오](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9D%B8-%EC%9E%90%EB%B0%94-%EC%95%A1%EC%85%98-%EB%B3%91%EB%A0%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%99%80-%EC%84%B1%EB%8A%A5) [허승연](https://velog.io/@heoseungyeon/%EB%B3%91%EB%A0%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%99%80-%EC%84%B1%EB%8A%A5)|
 
 </br>
 
 ### 📌 CS 스터디
 
-|주차|제목|링크|
-|---|---|---|
-|1주차|HTTP 차이점|v|
-|1주차|OSI 7계층|v|
-|1주차|GET / POST의 차이점|v|
+|주차|제목|작성자|링크|
+|---|---|---|---|
+|1주차|HTTP와 HTTPS에 대하여...|엄진환|[링크](https://velog.io/@ddkk94/HTTP%EC%99%80-HTTPS%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)|
+||OSI 7계층|           조수연|[링크](https://velog.io/@soo5717/OSI-7-Layer)|
+||GET / POST의 차이점| 서영범|[링크](https://velog.io/@youngblue/3GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4)|
+|2주차|RESTful API란?|엄진환|[링크](https://velog.io/@ddkk94/RESTful-API%EB%9E%80)|
+||전송 계층 (TCP, UDP)|조수연|[링크](https://velog.io/@soo5717/Transport-Layer)|
+||REST API의 메소드와 설계 가이드|서영범|[링크](https://velog.io/@youngblue/REST-API%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)|
+|3주차|HTTP의 발전 과정(0.9~2.0)|엄진환|[링크](https://velog.io/@ddkk94/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%950.92.0)|
+||TCP Handshaking|조수연|[링크](https://velog.io/@soo5717/TCP-Handshaking)|
+||CDN이란 무엇인가|서영범|[링크](https://velog.io/@youngblue/CDN%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)|
 
 </br>
 
