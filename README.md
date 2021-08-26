@@ -24,11 +24,17 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 
 ### 📌 CS 스터디
 
-|주차|제목|링크|
-|---|---|---|
-|1주차|HTTP 차이점|v|
-|1주차|OSI 7계층|v|
-|1주차|GET / POST의 차이점|v|
+|주차|제목|작성자|링크|
+|---|---|---|---|
+|1주차|HTTP와 HTTPS에 대하여...|엄진환|[링크](https://velog.io/@ddkk94/HTTP%EC%99%80-HTTPS%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)|
+||OSI 7계층|           조수연|[링크](https://velog.io/@soo5717/OSI-7-Layer)|
+||GET / POST의 차이점| 서영범|[링크](https://velog.io/@youngblue/3GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4)|
+|2주차|RESTful API란?|엄진환|[링크](https://velog.io/@ddkk94/RESTful-API%EB%9E%80)|
+||전송 계층 (TCP, UDP)|조수연|[링크](https://velog.io/@soo5717/Transport-Layer)|
+||REST API의 메소드와 설계 가이드|서영범|[링크](https://velog.io/@youngblue/REST-API%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)|
+|3주차|HTTP의 발전 과정(0.9~2.0)|엄진환|[링크](https://velog.io/@ddkk94/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%950.92.0)|
+||TCP Handshaking|조수연|[링크](https://velog.io/@soo5717/TCP-Handshaking)|
+||CDN이란 무엇인가|서영범|[링크](https://velog.io/@youngblue/CDN%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)|
 
 </br>
 
