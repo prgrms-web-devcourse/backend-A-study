@@ -1,6 +1,6 @@
 # 백엔드 A팀 스터디
 
----
+
 
 ## 📔 스터디 소개
 
@@ -35,6 +35,9 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 |3주차|HTTP의 발전 과정(0.9~2.0)|엄진환|[링크](https://velog.io/@ddkk94/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%950.92.0)|
 ||TCP Handshaking|조수연|[링크](https://velog.io/@soo5717/TCP-Handshaking)|
 ||CDN이란 무엇인가|서영범|[링크](https://velog.io/@youngblue/CDN%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)|
+|4주차|HTTP3와 QUIC|엄진환|[링크](https://velog.io/@ddkk94/HTTP3-QUIC)|
+||TCP 흐름제어, 혼잡제어|조수연|[링크](https://velog.io/@soo5717/Network-TCP-control)|
+||Multi Thread와 Multi Programming|서영범|[링크](https://velog.io/@youngblue/Multi-Thread-and-Multi-Programming)|
 
 </br>
 
