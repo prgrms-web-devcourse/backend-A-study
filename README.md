@@ -41,6 +41,9 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 | 5주차 | DNS 동작 원리                    | 엄진환 | [링크](https://velog.io/@ddkk94/DNS-operation)               |
 |       | IP주소, IPv4와 IPv6              | 조수연 | [링크](https://velog.io/@soo5717/Network-IP-IPv4-IPv6)       |
 |       | Big-O 표기법                     | 서영범 | [링크](https://velog.io/@youngblue/Big-O-notation)           |
+| 6주차 | DHCP 동작원리                    | 엄진환 | [링크](https://velog.io/@ddkk94/DHCP)                        |
+|       | 서브넷 마스크와 서브네팅         | 조수연 | [링크](https://velog.io/@soo5717/subnet-mask-and-subnetting) |
+|       | 정렬 알고리즘                    | 서영범 | [링크](https://velog.io/@youngblue/algorithm)                |
 
 
 </br>
