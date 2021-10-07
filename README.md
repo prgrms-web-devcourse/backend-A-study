@@ -1,6 +1,6 @@
 # 백엔드 A팀 스터디
 
----
+
 
 ## 📔 스터디 소개
 
@@ -9,6 +9,7 @@
 ### 📌 JAVA 스터디
 
 Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부한다.
+
 
 
 |주차|제목|링크|회고록|
@@ -25,15 +26,31 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 | |컬렉션 API 개선|[유현호](https://aeno.notion.site/API-e28c94ab6e0244fcb3288ed55811ecf8) [이주오](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%82%A0%EC%A7%9C%EC%99%80-%EC%8B%9C%EA%B0%84-API) [허승연]()|
 |6주차|컬렉션 API 개선|[유현호](https://aeno.notion.site/949a6102788d40a4a4ca4f2ebc5e7f7a) [이주오](https://velog.io/@ljo_0920/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A9%94%EC%84%9C%EB%93%9C) [허승연](https://velog.io/@heoseungyeon/%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A9%94%EC%84%9C%EB%93%9CDefault-Method)|
 
+
 </br>
 
 ### 📌 CS 스터디
 
-|주차|제목|링크|
-|---|---|---|
-|1주차|HTTP 차이점|v|
-|1주차|OSI 7계층|v|
-|1주차|GET / POST의 차이점|v|
+| 주차  | 제목                             | 작성자 | 링크                                                         |
+| ----- | -------------------------------- | ------ | ------------------------------------------------------------ |
+| 1주차 | HTTP와 HTTPS에 대하여...         | 엄진환 | [링크](https://velog.io/@ddkk94/HTTP%EC%99%80-HTTPS%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC) |
+|       | OSI 7계층                        | 조수연 | [링크](https://velog.io/@soo5717/OSI-7-Layer)                |
+|       | GET / POST의 차이점              | 서영범 | [링크](https://velog.io/@youngblue/3GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4) |
+| 2주차 | RESTful API란?                   | 엄진환 | [링크](https://velog.io/@ddkk94/RESTful-API%EB%9E%80)        |
+|       | 전송 계층 (TCP, UDP)             | 조수연 | [링크](https://velog.io/@soo5717/Transport-Layer)            |
+|       | REST API의 메소드와 설계 가이드  | 서영범 | [링크](https://velog.io/@youngblue/REST-API%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) |
+| 3주차 | HTTP의 발전 과정(0.9~2.0)        | 엄진환 | [링크](https://velog.io/@ddkk94/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%950.92.0) |
+|       | TCP Handshaking                  | 조수연 | [링크](https://velog.io/@soo5717/TCP-Handshaking)            |
+|       | CDN이란 무엇인가                 | 서영범 | [링크](https://velog.io/@youngblue/CDN%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80) |
+| 4주차 | HTTP3와 QUIC                     | 엄진환 | [링크](https://velog.io/@ddkk94/HTTP3-QUIC)                  |
+|       | TCP 흐름제어, 혼잡제어           | 조수연 | [링크](https://velog.io/@soo5717/Network-TCP-control)        |
+|       | Multi Thread와 Multi Programming | 서영범 | [링크](https://velog.io/@youngblue/Multi-Thread-and-Multi-Programming) |
+| 5주차 | DNS 동작 원리                    | 엄진환 | [링크](https://velog.io/@ddkk94/DNS-operation)               |
+|       | IP주소, IPv4와 IPv6              | 조수연 | [링크](https://velog.io/@soo5717/Network-IP-IPv4-IPv6)       |
+|       | Big-O 표기법                     | 서영범 | [링크](https://velog.io/@youngblue/Big-O-notation)           |
+| 6주차 | DHCP 동작원리                    | 엄진환 | [링크](https://velog.io/@ddkk94/DHCP)                        |
+|       | 서브넷 마스크와 서브네팅         | 조수연 | [링크](https://velog.io/@soo5717/subnet-mask-and-subnetting) |
+|       | 정렬 알고리즘                    | 서영범 | [링크](https://velog.io/@youngblue/algorithm)                |
 
 </br>
 
@@ -52,20 +69,24 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 </br>
 
 ## 📌 JAVA 스터디 & 회고록 작성법
+
 ### 스터디 방법
+
 매주 월요일 팀 스크럼 시간이 끝나고 발표를 진행한다. 가능한 모두가 발표를 한다.
 
 </br>
 
 ### 회고록 작성법
+
 - 스터디가 끝난 후 회의록 작성 pr에 본인이 했던 질문 기입 후 push
-질문을 받은 사람은 해당 pr에 질문 기입
+  질문을 받은 사람은 해당 pr에 질문 기입
 - 느낀점이나 새롭게 느낀점 또한 자유롭게 적어도 된다.
 
 
 </br>
 
 ## 📌 CS 스터디
+
 매주 월요일 팀 스크럼 시간이 끝나고 발표를 진행한다. 매주 각자 주제를 정하여 발표한다.
 
 
@@ -74,11 +95,14 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
 ## 📜 제출 방법
 
 깃 연습을 위데브 코스의스의 룰을 따른다.
+
 1. #주차별/깃허브닉네임 브랜치로 pr
+
 - JAVA 스터디는 JAVA
 - CS 스터디는 CS
 
 2. pr이 머지가 완료되면 후 pr 브랜치 삭제하기
+
 - main, JAVA, CS 브랜치만 남기기
 
 ```
@@ -89,11 +113,15 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
     ex) #2/깃헙닉네임 -> (원본)CS
 
 ```
+
 </br>
 
 ## 💥 팀원들이 올린 pr에 커밋 추가하기(참고)
+
 ### 1. 깃허브 pr에서 직접 수정(edit file) 하거나
+
 ### 2. 내 로컬에서 작업하기
+
 ```
 1. git clone https://github.com/prgrms-web-devcourse/backend-A-study.git (선택 - 폴더명)
     - git clone https://github.com/prgrms-web-devcourse/backend-A-study.git upstream-stduy
@@ -106,7 +134,5 @@ Java8 버전 주요 업데이트 기능을 학습하며 자바에 대해 공부�
     - git checkout -t yhh/yhh1056
 5. 수정 후 commit하고 push
 ```
+
 - [참고 링크](https://tighten.co/blog/adding-commits-to-a-pull-request/)
-
-
-
